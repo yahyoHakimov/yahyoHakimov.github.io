@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yakhyo Khakimov"
+title                    : "Yahya Hakim"
 title_separator          : "-"
 name                     : &name Yahya"
 description              : &description "personal description"
@@ -20,21 +20,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yahya Hakim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Software engineer with 4+ experience"
+  location         : "Uzbekistan"
+  employer         : "Bachelor degree at Tashkent university of information technology"
+  uri              : https://tuit.uz/
+  email            : "yahyokhakim@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : http://independent.academia.edu/HakimovYahyo
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=0TdMQHoAAAAJ"
   inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  impactstory      : "https://orcid.org/0009-0008-1250-3314"
+  orcid            : "https://orcid.org/0009-0008-1250-3314"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "yahyoHakimov"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
