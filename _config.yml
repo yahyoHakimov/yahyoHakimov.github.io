@@ -24,8 +24,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Software engineer with 4+ experience"
   location         : "Uzbekistan"
-  employer         : "Bachelor degree at Tashkent university of information technology"
-  uri              : https://tuit.uz/
+  #employer         : ""
+  #uri              : https://tuit.uz/
   email            : "yahyokhakim@gmail.com" 
 
   # Academic websites
