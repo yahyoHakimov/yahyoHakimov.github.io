@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yahya Hakim"
+title                    : "     Yahya Hakim"
 title_separator          : "-"
 name                     : &name Yahya"
 description              : &description "personal description"
@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yahya Hakim"
+  name             : "     Yahya Hakim"
   pronouns         : # example: "she/her"  
   bio              : "Software engineer with 4+ experience"
   location         : "Uzbekistan"
