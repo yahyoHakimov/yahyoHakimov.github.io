@@ -9,20 +9,20 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "     Yahya Hakim"
+title                    : "Yahya Hakim"
 title_separator          : "-"
-name                     : &name Yahya"
-description              : &description "personal description"
-url                      : https://yahyoHakimov.github.io
+name                     : &name "Yahya Hakim"
+description              : &description "Full-stack software engineer sharing projects, thoughts, and technical writing."
+url                      : https://yahyohakimov.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yahyoHakimov/yahyoHakimov.github.io"
 
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "     Yahya Hakim"
+  name             : "Yahya Hakim"
   pronouns         : # example: "she/her"  
-  bio              : "Software engineer with 4+ experience"
+  bio              : "Full-stack software engineer with 4+ years of experience"
   location         : "Uzbekistan"
   #employer         : ""
   #uri              : https://tuit.uz/
@@ -36,7 +36,7 @@ author:
   impactstory      : "https://orcid.org/0009-0008-1250-3314"
   orcid            : "https://orcid.org/0009-0008-1250-3314"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username (e.g. yourname.bsky.social)
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
